@@ -94,7 +94,7 @@ plt.ylabel('Inertia')
 plt.xticks(range_n_clusters)
 plt.grid(True)
 # Tampilkan plot menggunakan st.pyplot()
-st.pyplot()
+st.pyplot(plt)
 
 # Menentukan Cluster terbaik dengan metode Silhouette Score
 # List untuk menyimpan nilai silhouette score untuk setiap jumlah cluster
@@ -115,7 +115,7 @@ plt.ylabel('Silhouette Score')
 plt.xticks(range_n_clusters)
 plt.grid(True)
 # Tampilkan plot menggunakan st.pyplot()
-st.pyplot()
+st.pyplot(plt)
 
 
 # Modeling - Menentukan cluster
