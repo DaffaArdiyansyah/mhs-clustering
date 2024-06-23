@@ -19,7 +19,7 @@ st.markdown("""
 ### Kecerdasan Bisnis B
 Anggota: \n
          1. Daffa Ardiyansyah 21_134 \n
-    2. Nurfaida Oktafinai 21_078  
+    2. Nurfaida Oktafiani 21_078  
          
 
 ________________________________________________________________________________________________
