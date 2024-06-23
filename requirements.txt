@@ -1,7 +1,7 @@
 numpy
-pandas
+pandas==2.2.2
 scikit-learn
 streamlit
-matplotlib
-seaborn
-altair
+matplotlib==3.9.0
+seaborn==0.13.2
+altair==5.3.0
